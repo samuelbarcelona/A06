@@ -54,6 +54,7 @@ footer {
 /* CSS class */
 .large {
 	font-size: 125%;
-	text-shadow: 2px 2px 0px black;
+	text-shadow: 2px 2px 4px black;
 
 }
+
